@@ -1,0 +1,21 @@
+Alt-Insert: Genera código dependiendo de las posibilidades desplegando un menú de opciones.
+
+Ctrl-Shift-I: Agrega las sentencias de importación de clases que hagan falta.
+
+Alt-Shift-I: Arregla la importación de clases seleccionada.
+
+Alt-Shift Left/Right/Up/Down: Mueve la línea de código en la dirección de las teclas.
+
+Ctrl-Shift-R: Selecciona código de forma rectangular.
+
+Ctrl-Shift-C: Agrega dobles diagonales para comentarios de una sola línea.
+
+Ctrl-E: Borra la línea en la que está posicionada el cursor.
+
+ifelse y a continuación la tecla Tab: NetBeans completará un bloque if con su else.
+
+trycatch y a continuación la tecla Tab: NetBeans completará un bloque try-catch.
+
+for y a continuación la tecla Tab: Obtienes un bloque de código para for listo para usarse.
+
+fori y a continuación Tab: Crea el ciclo sobre un arreglo con índice.
